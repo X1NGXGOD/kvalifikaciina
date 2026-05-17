@@ -1,0 +1,8 @@
+flet>=0.24.0
+requests
+PyMuPDF
+beautifulsoup4
+python-docx
+docx2pdf
+lxml
+plyer
